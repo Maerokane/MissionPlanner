@@ -1,2 +1,0 @@
-# MissionPlanner
-Mission Planner
